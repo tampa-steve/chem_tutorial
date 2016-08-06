@@ -1,3 +1,4 @@
+# This program involves the use of the function, 'def':
 class Chem:
     def __init__(self, atomWt, name, total):      
         self.name = name
