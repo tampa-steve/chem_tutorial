@@ -1,3 +1,6 @@
+# This program allows you to learn how compound formulas are written based on their periodic table assignment.
+
+
 element1 = ['Li', 'Na', 'K', 'Rb', 'Cs']
 element2 = ['F', 'Cl', 'Br', 'I', 'At']
 element3 = ['Mg', 'Ca', 'Sr', 'Ba', 'Ra']
